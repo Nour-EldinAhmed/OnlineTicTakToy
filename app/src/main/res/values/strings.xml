@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player1nameHint">player1 name</string>
+    <string name="player2nameHint">player2 name</string>
+    <string name="action_settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_afterstart">Tic Tac Toe</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_friend_e_mail">Enter Friend E-mail</string>
+    <string name="accept">Accept</string>
+    <string name="inviat">Inviat</string>
+    <string name="do_you_want_to_play_agin">Do you want to play agin ?</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="version_1_0">version 1.0</string>
+    <string name="pick_your_side">Pick your side</string>
+    <string name="nickname">Nickname</string>
+    <string name="continues">Continue</string>
+    <string name="with_a_friend_online">With a Friend online</string>
+    <string name="with_ai">With AI</string>
+    <string name="enter_your_name" translatable="false">Enter your Name</string>
+    <string name="yes" translatable="false">YES</string>
+    <string name="no" translatable="false">NO</string>
+    <string name="do_you_want_to_exit" translatable="false">Do you want to exit?</string>
+</resources>
